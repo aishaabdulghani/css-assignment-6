@@ -1,0 +1,209 @@
+.nav-bar{
+    list-style: none;
+}
+.nav-bar :hover{
+    color: blue;
+}
+.let :hover{
+    color: blue;
+}
+.discover{
+    background-color: #f5f7fc;
+    width: 100%;
+    height: 100%;
+}
+.you{
+    background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/ui-design.png);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: right;
+ }   
+ .box{
+    width: 100%;
+    height: 100%;
+ }
+ .bet{
+    background-color: #f5f7fc;
+    width: 100%;
+    height: 100%;
+ }
+.para{
+    margin-left: 10em;
+}
+.para a{
+    font-size: 1.2em;
+    text-decoration: none;
+    font-weight: bold;
+    color: red;
+}
+.zend img{
+    width: 100%;
+    margin: auto;
+}
+.zend{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.mail img{
+    width: 100%;
+    margin: auto;
+}
+.mail{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.free img{
+    width: 100%;
+    margin: auto;
+}
+.free{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.inter img{
+    width: 100%;
+    margin: auto;
+}
+.inter{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.fresh img{
+    width: 100%;
+    margin: auto;
+}
+.fresh{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.sun img{
+    width: 100%;
+    margin: auto;
+}
+.sun{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.git img{
+    width: 100%;
+    margin: auto;
+}
+.git{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.react img{
+    width: 100%;
+    margin: auto;
+}
+.react{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.boot img{
+    width: 100%;
+    margin: auto;
+}
+.boot{
+    padding: 40px 25px;
+    background: #fff;
+    border-radius: 14px;
+}
+.dot{
+    width: 100%;
+    height: auto;
+}
+.fat{
+    background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/digital-marketing.png);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: right;
+    padding-top: 10em;
+}
+.fat a{
+    text-decoration: none;
+    border: solid;
+}
+.net{
+    background-color: #f5f7fc;
+    width: 100%;
+    height: 100%;
+}
+.mob img{
+    width: 100%;
+    height: auto;
+}
+.larka img{
+    width: 100%;
+    height: auto;
+}
+.set img{
+    width: 100%;
+    height: auto;
+}
+.cat{
+    background-color: #f5f7fc;
+    width: 100%;
+    height: 100%;
+}
+.tip{
+    background-color: #f5f7fc;
+    width: 100%;
+    height: 100%;
+}
+.red{
+    background-color: #fff;
+}
+.jet a{
+    text-decoration: none;
+    font-size: 2em;
+}
+.jet{
+    background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/testimonials-woman.jpg);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: right;
+    padding-top: 10em;
+}
+.hat{
+    background-color: #f5f7fc;
+    width: 100%;
+    height: 100%;  
+    margin: 0; 
+}
+.wet img{
+    width: 100%;
+    height: auto;
+}
+.yet img{
+    width: 100%;
+    height: auto;
+}
+.rat img{
+    width: 100%;
+    height: auto;
+}
+.hy{
+    background-color: white;
+}
+.tit input{
+    width: 100%;
+    font-size: 1.5em;
+    background-color: #f5f7fc;
+}
+.tit textarea{
+    width: 100%;
+    font-size: 1.5em;
+    background-color: #f5f7fc;
+}
